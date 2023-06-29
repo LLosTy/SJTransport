@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
+import Banner from './components/Banner';
+
 
 const App = () => {
 
   return (
-    <h1>Hello World!</h1>
+    <Banner></Banner>
   );
 };
 
