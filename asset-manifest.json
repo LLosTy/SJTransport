@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SJTransport.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/SJTransport.github.io/static/js/main.835feaee.js",
+    "main.js": "/SJTransport.github.io/static/js/main.31572ead.js",
     "static/js/787.3974a749.chunk.js": "/SJTransport.github.io/static/js/787.3974a749.chunk.js",
     "static/media/logo.svg": "/SJTransport.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SJTransport.github.io/index.html",
     "main.073c9b0a.css.map": "/SJTransport.github.io/static/css/main.073c9b0a.css.map",
-    "main.835feaee.js.map": "/SJTransport.github.io/static/js/main.835feaee.js.map",
+    "main.31572ead.js.map": "/SJTransport.github.io/static/js/main.31572ead.js.map",
     "787.3974a749.chunk.js.map": "/SJTransport.github.io/static/js/787.3974a749.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.835feaee.js"
+    "static/js/main.31572ead.js"
   ]
 }
