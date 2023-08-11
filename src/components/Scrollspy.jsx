@@ -5,8 +5,14 @@ const Scrollspy = () => {
     <>
       <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
         <a class="navbar-brand" href="/">
-          Navbar
+          <img
+            src="Sj_transportlogo.jpg"
+            alt="SJ Transport"
+            width="30"
+            height="24"
+          ></img>
         </a>
+
         <ul class="nav nav-pills">
           <li class="nav-item">
             <a class="nav-link" href="#scrollspyHeading1">
