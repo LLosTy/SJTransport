@@ -6,7 +6,8 @@ const Scrollspy = () => {
       <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
         <a class="navbar-brand" href="/">
           <img
-            src="Sj_transportlogo.jpg"
+            src={require("../Sj_transportlogo.jpg")}
+            class="logo"
             alt="SJ Transport"
             width="30"
             height="24"
@@ -67,6 +68,7 @@ const Scrollspy = () => {
       >
         <h4 id="scrollspyHeading1">First heading</h4>
         <p>
+          <img src="./src/Sj_transportlogo.jpg" alt="SJ Transport"></img>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
