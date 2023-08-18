@@ -9,8 +9,9 @@ const Scrollspy = () => {
             src={require("../Sj_transportlogo.jpg")}
             class="logo"
             alt="SJ Transport"
-            width="30"
-            height="24"
+            style={{ width: "8%", height: "8%" }}
+            // width="30"
+            // height="24"
           ></img>
         </a>
 
