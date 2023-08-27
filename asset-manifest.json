@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/SJTransport/static/css/main.da3089f3.css",
-    "main.js": "/SJTransport/static/js/main.6b82ec79.js",
+    "main.js": "/SJTransport/static/js/main.b8a300f5.js",
+    "static/media/Sj_transportlogo.jpg": "/SJTransport/static/media/Sj_transportlogo.77e33f0aa6c1595566f1.jpg",
     "index.html": "/SJTransport/index.html",
     "main.da3089f3.css.map": "/SJTransport/static/css/main.da3089f3.css.map",
-    "main.6b82ec79.js.map": "/SJTransport/static/js/main.6b82ec79.js.map"
+    "main.b8a300f5.js.map": "/SJTransport/static/js/main.b8a300f5.js.map"
   },
   "entrypoints": [
     "static/css/main.da3089f3.css",
-    "static/js/main.6b82ec79.js"
+    "static/js/main.b8a300f5.js"
   ]
 }
